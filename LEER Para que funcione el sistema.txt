@@ -1,0 +1,33 @@
+- Profesor soy Ziegler, aqui le dejo las instrucciones para que funcione el simulador 
+(ya que me lleve muchos golpes con este mismo y ya sufri lo suficiente asi que le dejo las intrucciones)
+primeramente le deje la base de datos ya (Me parecio mas comodo incluir todo en uno y siguiendo tutoriales lo logre)
+y para ahorrar tiempo use boostrap y reduje todo lo posible para que no pesara tanto, mis anteriores borradores pesaban mucho,
+asi que este peso menos despues de todos los cambios que hice. Muy bien:
+
+1- Cree una nueva base de datos y IMPORTANTE, pongale: sis_farmacia, pues como ve en un archivo llamado conexion.php puse que 
+ajuro se tenia que poner ese nombre, aunque puede cambiarlo si quiere, pero tendria que crear una base con el nombre nuevo.
+
+2- Exporte la base de datos que le deje y deshabilite la revision de claves foraneas (asi agarrara sin ningun error
+, ya que pese a todo tuve muchos trancazos).
+
+3- Abra xampp, habilite las priemras opciones y luego vaya a su navegador,
+ahi escriba: localhost/sistema_farmacia/ (ya que asi nombre al proyecto y va al login), o si quiere ir direcatmente escriba:
+localhost/sistema_farmacia
+
+4- Una vez este en el login, de usuario ponga:( Fenix ) y de contraseña:( admin  ) sin parentesis ninguna;
+asi podra entrar al simulador y podra todas las opciones y las puede manipular, crear un nuevo usuario, 
+cambiar los caracteres y asi.
+
+5- Para que lo probara mejor, cree un tipo de pastilla, una presentacion, un laboratorio, un producto y lo demas. 
+Esto a fin de que pruebe todas las opciones que puse y vea que tal.
+
+6- Al final puede ver todo lo que hizo en el apartado de "generar nueva venta" y le da a generar venta teniendo todo.
+Se le generara un pdf (aqui sufri viendo videos y probando varios codigos, porque aunque se consiga en internet,
+no significa que vaya a servir, pero lo valio). 
+
+- Muy bien esto seria todo por mi parte, espero le haya gustado. Si le soy honesto queria presentarselos a los de primer y
+segundo semestre pero los tiempo no ayudaron. Me costo y me guie de miles de bromas y tuve muchos fallos y (borre la base de datos,
+no sabia incluir y redireccionar, no tenia el autoguardado habilitado y se me fue la luz, etc) 
+pero las risas no faltaron, y aprendi de php que es lo importante. Cuidese y que tenga unos buenos dias, tardes o noches.
+
+
