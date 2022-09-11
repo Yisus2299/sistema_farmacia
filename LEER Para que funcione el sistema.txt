@@ -13,7 +13,7 @@ ajuro se tenia que poner ese nombre, aunque puede cambiarlo si quiere, pero tend
 3- Abra xampp, habilite las priemras opciones y luego vaya a su navegador,
 ahi escriba: localhost/sistema_farmacia/ (ya que asi nombre al proyecto y va al login), o si quiere ir direcatmente escriba:
 localhost/sistema_farmacia. Claro esta, si cambia el nombre de la carpeta que contiene el proyecto, por ende al escribir el localhost, tambien
-debe de cambiarlo.
+debe de cambiarlo, ejemplo, localhost/sistema_farmacia-main/.
 
 4- Una vez este en el login, de usuario ponga:( Fenix ) y de contraseña:( admin  ) sin parentesis ninguna;
 asi podra entrar al simulador y podra todas las opciones y las puede manipular, crear un nuevo usuario, 
