@@ -19,7 +19,7 @@ debe de cambiarlo.
 asi podra entrar al simulador y podra todas las opciones y las puede manipular, crear un nuevo usuario, 
 cambiar los caracteres y asi.
 
-5- Para que lo probara mejor, cree un tipo de pastilla, una presentacion, un laboratorio, un producto y lo demas. 
+5- Para que lo probara mejor, tiene que crear un tipo de pastilla, una presentacion, un laboratorio, un producto y lo demas. 
 Esto a fin de que pruebe todas las opciones que puse y vea que tal.
 
 6- Al final puede ver todo lo que hizo en el apartado de "generar nueva venta" y le da a generar venta teniendo todo.
